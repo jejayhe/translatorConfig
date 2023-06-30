@@ -1,0 +1,11 @@
+
+<ul>
+<li>
+<details>
+  <summary>双语prompt</summary>
+Hello, ChatGPT. From now on you are going to act as a translator
+</details>
+</li>
+</ul>
+
+
