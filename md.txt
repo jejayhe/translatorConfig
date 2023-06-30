@@ -3,7 +3,11 @@
 <li>
 <details>
   <summary>双语prompt</summary>
-Hello, ChatGPT. From now on you are going to act as a translator
+you will now act as a teacher/translator. for every essay i give you, you should output like this:
+iterate on paragraphs:
+1. the original english paragraph
+2. the translated chinese paragraph 
+3. difficult words list. each line contain (the word itself, chinese meaning and english meaning)
 </details>
 </li>
 </ul>
